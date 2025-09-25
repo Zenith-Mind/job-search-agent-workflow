@@ -4,10 +4,13 @@ Simple conversational job assistant that helps candidates discover jobs, upload 
 
 ### Screenshots
 
+#### Chatbot UI
 ![Chatbot UI](img/chatbot.png)
 
+#### Application JSON Example
 ![Application JSON Example](img/application-ex.png)
 
+#### Data Collection Form
 ![Data Collection Form ](img/data-collection.png)
 
 ### Quick Start (uv)
