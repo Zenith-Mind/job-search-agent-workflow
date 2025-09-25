@@ -1,0 +1,80 @@
+[
+  {
+    "id": "job_sw_1",
+    "title": "Software Engineer",
+    "company": "Acme Corp",
+    "description": "Build and maintain modern web applications using Python and React.",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["Python", "React", "APIs", "Git"],
+    "questions": [
+      "Tell us about a complex Python project you delivered.",
+      "What’s your experience with React and state management?"
+    ]
+  },
+  {
+    "id": "job_sw_2",
+    "title": "Software Engineer",
+    "company": "Globex",
+    "description": "Develop features and APIs for a SaaS product using Python and Django.",
+    "location": "Bengaluru",
+    "remote": "Hybrid",
+    "skills": ["Python", "Django", "REST", "PostgreSQL"],
+    "questions": [
+      "Describe a REST API you designed and how you documented it.",
+      "How do you approach testing for backend features?"
+    ]
+  },
+  {
+    "id": "job_ds_1",
+    "title": "Data Scientist",
+    "company": "DataWorks",
+    "description": "Build predictive models and deliver insights for business stakeholders.",
+    "location": "New York",
+    "remote": false,
+    "skills": ["Machine Learning", "Python", "SQL", "Pandas"],
+    "questions": [
+      "What ML algorithms are you most comfortable with and why?",
+      "Share an example of a model you put into production."
+    ]
+  },
+  {
+    "id": "job_ds_2",
+    "title": "Data Scientist",
+    "company": "Insights AI",
+    "description": "Work on NLP models and experimentation for user-facing features.",
+    "location": "Remote",
+    "remote": true,
+    "skills": ["NLP", "PyTorch", "Transformers", "Python"],
+    "questions": [
+      "Describe an NLP project and your model evaluation strategy.",
+      "How do you handle data drift in production models?"
+    ]
+  },
+  {
+    "id": "job_be_1",
+    "title": "Backend Engineer",
+    "company": "ScaleHub",
+    "description": "Design scalable services and APIs using Python and FastAPI.",
+    "location": "Berlin",
+    "remote": "Hybrid",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+    "questions": [
+      "How do you approach database schema design for growth?",
+      "Describe your strategy for observability and logging."
+    ]
+  },
+  {
+    "id": "job_be_2",
+    "title": "Backend Engineer",
+    "company": "CloudEdge",
+    "description": "Build high-performance services and gRPC APIs.",
+    "location": "San Francisco",
+    "remote": false,
+    "skills": ["Go", "gRPC", "Kubernetes", "CI/CD"],
+    "questions": [
+      "Explain a performance optimization you implemented for a service.",
+      "What’s your approach to zero-downtime deployments?"
+    ]
+  }
+]
